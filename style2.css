@@ -1,0 +1,17 @@
+body{
+    background-image: url(Background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial;
+}
+
+.td1{
+    font-size: 21px;
+    text-align: center;
+    text-decoration: none;
+}
+
+table {
+    background-color: white;
+    margin : auto;
+}

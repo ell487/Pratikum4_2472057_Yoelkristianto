@@ -1,0 +1,63 @@
+body {
+    background-image:url(cat.jpg) ;
+    font-family: Arial, Helvetica, sans-serif;
+    background-attachment: fixed;
+
+
+}
+
+.container {
+    background-color: cadetblue;
+    border-radius: 10px;
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    height: 30px;
+    color: white;
+    
+
+}
+
+.ryan {
+    border-radius: 10px;
+}
+
+.table {
+    margin: auto;
+    background-color: white;
+}
+
+.jepang {
+    list-style-type: katakana;
+}
+
+.blue {
+    color: cadetblue;
+
+}
+
+.red {
+    color: red;
+}
+
+
+.marnat a{
+    color: red;
+}
+.marnat a:hover{
+    color: white;
+
+}
+
+.blue a:hover {
+    font-size: large;
+    background-color : rgb(135, 83, 187);
+}
+
+a {
+    text-decoration: none;
+}
+
+.blue a {
+    color: rgb(40, 226, 226);
+}
