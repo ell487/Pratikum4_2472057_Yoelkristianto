@@ -1,0 +1,84 @@
+
+body {
+    font-family: Arial;
+    background-image: url('Background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+
+  .container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 400px;
+  }
+  
+ 
+  .registration-form h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 21px;
+    margin-bottom: 20px;
+  }
+  
+
+  label {
+    display: block;
+    margin-bottom: 2px;
+    font-weight: bold;
+  }
+  
+  
+  .input-field {
+    width: 100%; 
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    box-sizing: border-box; 
+  }
+  
+ 
+  .gender {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+
+  select {
+    border-radius:5pc;
+    
+  }
+  
+ 
+  .button {
+    
+    background-color: #000;
+    color: yellow;
+    padding: 12px;
+    border-radius: 20px;
+    font-weight: bold;
+    width: 30%;
+    margin-top: 20px;
+    
+  }
+
+  .tengah {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .button:hover {
+    background-color: #333;
+  }
+  

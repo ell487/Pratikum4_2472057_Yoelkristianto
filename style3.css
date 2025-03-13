@@ -1,0 +1,103 @@
+
+body {
+    font-family: Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.navbar {
+    width: 100%;
+    background-color: #282B30;
+    color: white;
+    text-align: center;
+}
+
+.navbar td {
+    padding: 14px;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 14px;
+    display: block;
+}
+
+.navbar a:hover {
+    background-color: #1E2124;
+}
+
+.navbar a:active {
+    background-color: #7289DA;
+}
+
+
+.section {
+    width: 100%;
+    padding: 30px;
+}
+
+.html {
+    background-color: #FFF4A3;
+}
+
+.css {
+    background-color: #fffbcc;
+}
+
+.javascript {
+    background-color: #F3ECEA;
+}
+
+
+.left {
+    width: 50%;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 18px;
+}
+
+
+
+
+
+
+.learn-btn, .ref-btn, .cert-btn {
+    margin: 10px auto;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    width: 50%; 
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 25px;
+    
+}
+
+.learn-btn {
+    background-color: #04AA6D;
+    
+}
+
+.ref-btn {
+    background-color: #1E2124;
+
+}
+
+.cert-btn {
+    background-color: #FFC0C7;
+}
+
+
+
+
