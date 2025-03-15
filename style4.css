@@ -107,6 +107,7 @@ label {
 
 .tanda {
     text-decoration: underline white;
+    text-transform : capitalize;
 }
 
 
