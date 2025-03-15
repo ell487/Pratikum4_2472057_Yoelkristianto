@@ -1,0 +1,217 @@
+/* Gaya Umum */
+body {
+    font-family: monospace;
+    background-color: #323437;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+/* intro */
+.icon {
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: auto;
+}
+
+.icon img {
+    width: 80%; 
+    
+}
+
+.atas {
+    color : #e2b714;
+}
+
+
+
+.intro {
+    color :#e2b714;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    color: #e2b714;
+}
+
+header h1 {
+    font-size: 36px;
+    text-transform: capitalize;
+}
+
+h2 {
+    text-align: center;
+}
+
+.satu {
+    text-align: right;
+    margin-right: 50px;
+}
+
+.dua {
+    text-align: left;
+    margin-left: 50px;
+}
+
+.tiga {
+    text-align: center;
+}
+
+.empat{
+    text-align: center;
+}
+
+
+/* Form Input */
+.form-container {
+    width: 80%;
+    max-width: 500px;
+    margin: 50px auto;
+   
+    padding: 20px;
+   
+    border-radius: 8px;
+}
+
+/* Form Group */
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #e2b714;
+    font-size: 16px;
+}
+
+
+
+
+/* caption */
+
+.caption {
+    text-align: center;
+    font-size: large;
+    font-style: oblique;
+    text-decoration: overline;
+    color: #e2b714;
+}
+
+.tanda {
+    text-decoration: underline white;
+}
+
+
+/* Input */
+input[type="text"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid white;
+    border-radius: 4px;
+    color: white;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+.hiddenMessage::placeholder {
+    color: black; 
+    opacity: 1; 
+}
+
+/* Tombol */
+button {
+    color: #323437;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #1e1e1e;
+}
+
+/* Keyboard Layout */
+.keyboard-layout {
+    margin: 20px;
+    padding: 20px;
+    background-color: #323437;
+    border: 2px solid #e2b714;
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+    color: aqua;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #e2b714;
+    text-align: center;
+    color: white;
+}
+
+td:hover {
+    background-color: #e2b714;
+    color: #323437;
+    cursor: pointer;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin-top: 20px;
+}
+
+footer a {
+    color: aqua;
+    text-decoration: none;
+}
+
+.w3schools {
+    color :aqua;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+
+hr {
+    border: none; 
+    height: 3px; 
+    background-color: #e2b714; 
+    margin: 20px 0;
+}
+
+.tengah {
+    width: 98%;
+    margin: 20px auto;
+    
+}
+
+.biru {
+    border-color:  aqua;
+    color: aqua;
+}
+
+
